@@ -23,3 +23,9 @@ features:
   auto_scaling: true
   load_balancer: enabled
   backup_enabled: true
+  
+development:
+  mock_external_apis: true
+  debug_mode: true
+  cors_enabled: true
+  
