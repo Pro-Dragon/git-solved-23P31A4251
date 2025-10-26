@@ -69,4 +69,3 @@ pip install tensorflow keras
 export DEPLOY_ENV=experimental
 ./scripts/deploy.sh
 "##FAQ" 
-"update" 
