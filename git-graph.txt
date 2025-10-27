@@ -1,0 +1,26 @@
+* e0bb5f9 (HEAD -> main, tag: v1.1.0, tag: v1.0.0) changed readme in the main to test reset and reflog
+* 44f96dd changed to test reset command
+| * 026375f (feature/another-feature) feat: Add test feature
+|/  
+* dd15334 docs: Update README
+* 51df1b7 complete
+| * 6267855 (origin/feature/another-feature) feat: Add test feature
+|/  
+* cdd5407 docs: Update README
+* e811b29 (origin/main, origin/HEAD) completed
+* 2a4f435 completed
+| * 74ee291 (origin/feature/new-feature, feature/new-feature) completed
+|/  
+*   a9fe51d completed
+|\  
+| * d3dd9b2 (origin/conflict-simulator, instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* | b3da83d completed
+* | cd3c6ba Update README.md
+* |   17abd64 completed
+|\ \  
+| * | 02011a5 (origin/dev, instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
